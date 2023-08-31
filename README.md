@@ -1,0 +1,1 @@
+My current project is to demonstrate basic HMTL skilled learned through the Odin Project by creating a recipe website. Today is August 31, 2023. 
